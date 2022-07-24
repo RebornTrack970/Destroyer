@@ -2,7 +2,7 @@
 	"name": "Destroyer",
 	"description": "This is just a simple Mindustry mod.",
 	"version": "1.0",
-	"minGameVersion": "120",
+	"minGameVersion": "136",
 	"repo": "RebornTrack970/Destroyer",
 	"hidden": true
 }
